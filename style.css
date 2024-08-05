@@ -1,0 +1,19 @@
+body{
+    background-image: url(glitter-golden-bokeh-lights-scaled.jpeg);
+    
+}
+.b{
+    background-color: rgb(214, 247, 139);
+    color: rgb(2, 7, 7);
+border-radius: 7px 55px 12px 21px;
+cursor:pointer;
+}
+.b:hover{
+    background-color: red;
+}
+.b:active{
+    background-color: darkviolet;
+}
+.navbar-brand{
+    font-family:'Times New Roman', Times, serif;
+}
